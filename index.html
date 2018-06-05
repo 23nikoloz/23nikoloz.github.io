@@ -8,7 +8,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta content="This is Nikoloz's personal Page" name="description">
     <meta content="23nikoloz" name="author">
-    <link href="./images/favicon.ico" rel="icon">
+    <link href="./favicon/favicon.ico" rel="icon">
 
     <link rel="apple-touch-icon" sizes="120x120" href="favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
@@ -38,7 +38,7 @@
                 new Date().getTime(), event: 'gtm.js'
         });
         var f = d.getElementsByTagName(s)[0],
-            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j = d.createElement(s), dl = l !== 'dataLayer' ? '&l=' + l : '';
         j.async = true;
         j.src =
             'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
@@ -296,7 +296,6 @@
 
         </div> <!-- /col-md-4 -->
     </div><!-- /row -->
-    </div><!-- /container -->
 </footer>
 <!-- Bootstrap core JavaScript
 ================================================== -->
