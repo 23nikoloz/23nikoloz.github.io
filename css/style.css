@@ -83,7 +83,7 @@
  * =================================================================== */
 
  .section-image {
- 	background: #151515 url(https://images.unsplash.com/photo-1454240114721-ee3f75fd9440?dpr=2&auto=compress,format&crop=entropy&fit=crop&w=1199&h=799&q=80) no-repeat center center;
+ 	background: #151515 url(https://images.unsplash.com/photo-1529669851596-ba9a5549af95?dpr=2&auto=compress,format&crop=entropy&fit=crop&w=1199&h=799&q=80) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -247,7 +247,7 @@ section {
 }
 
 #skills {
-    background: #151515 url(https://images.unsplash.com/photo-1510130030895-8e5f49d43ccb?dpr=2&auto=format&crop=entropy&fit=crop&w=1280&h=720&q=80) no-repeat center center;
+    background: #151515 url(https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?dpr=2&auto=format&crop=entropy&fit=crop&w=1280&h=720&q=80) no-repeat center center;
     height: auto;
 }
 
